@@ -20,6 +20,8 @@ h3 {
 .pstyle {
     width: 50%;
     padding: .5em;
+    text-align: center;
+    width: 60%;
 }
 
 main {
@@ -40,6 +42,19 @@ aside {
     border-radius: 25px;
 }
 
+.hpblimp {
+    margin: 5em;
+    border: 5px solid #013369;
+    border-radius: 25px;
+    text-align: center;
+    background-color: yellow;
+}
+
+.lstyle {
+    text-decoration: none;
+
+}
+
 footer {
     float: left;
     clear: both;
@@ -54,3 +69,17 @@ body {
 header {
     border-bottom: 2px solid #013369;
 }
+
+h3 {
+    border: 1px solid #013369;
+    border-radius: 20px;
+    text-align: center;
+    background-color: azure;
+}
+
+.tc {
+    text-align: center;
+}
+
+
+
