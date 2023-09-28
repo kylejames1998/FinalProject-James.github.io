@@ -79,5 +79,14 @@ h3 {
     text-align: center;
 }
 
+li {
+    margin-right: 10px;
+    margin-left: .5em;
+    padding: .05em;
+}
+
+.bodys {
+    background-color: azure;
+}
 
 
