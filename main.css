@@ -71,10 +71,8 @@ header {
 }
 
 h3 {
-    border: 1px solid #013369;
-    border-radius: 20px;
     text-align: center;
-    background-color: azure;
+    font-weight: bolder;
 }
 
 .tc {
