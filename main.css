@@ -1,0 +1,45 @@
+.imghead {
+    display: block;
+    padding: .5em;
+}
+
+.hdr {
+    color: #013369;
+}
+
+h2 {
+    padding: .5em;
+    font-family: sans-serif;
+}
+
+h3 {
+    padding: .2em;
+    font-family: sans-serif;
+}
+
+.pstyle {
+    width: 50%;
+    padding: .5em;
+}
+
+main {
+    width: 50%;
+    height: 350px;
+    border-right: 2px solid black;
+    float: left;
+}
+
+aside {
+    width: 50%;
+    float: right;
+}
+
+.hpimg {
+    margin: 2em;
+    border: 5px solid #013369;
+    border-radius: 25px;
+}
+
+footer {
+    float: left;
+}
