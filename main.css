@@ -51,10 +51,7 @@ aside {
     background-color: yellow;
 }
 
-.lstyle {
-    text-decoration: none;
 
-}
 
 footer {
     float: left;
@@ -89,6 +86,11 @@ li {
 
 .bodys {
     background-color: white;
+}
+
+/* removes underline for links when hovered */
+a:hover {
+    text-decoration: none;
 }
 
 
