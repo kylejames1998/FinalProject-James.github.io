@@ -14,7 +14,7 @@ h2 {
 
 h3 {
     padding: .2em;
-    font-family: 'Titillium Web', sans-serif;
+    font-family: sans-serif
 }
 
 .pstyle {
@@ -40,6 +40,7 @@ aside {
     margin: 2em;
     border: 5px solid #013369;
     border-radius: 25px;
+    display: block;
 }
 
 .hpblimp {
@@ -63,7 +64,7 @@ footer {
 }
 
 body {
-    font-family: 'Titillium Web', sans-serif;
+    font-family: sans-serif;
     background-color: #013369;
 }
 
@@ -87,7 +88,7 @@ li {
 }
 
 .bodys {
-    background-color: azure;
+    background-color: white;
 }
 
 
