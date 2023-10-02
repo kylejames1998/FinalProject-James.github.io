@@ -7,6 +7,11 @@
     color: #013369;
 }
 
+h1 {
+    padding: .5em;
+    font-family: sans-serif;
+}
+
 h2 {
     padding: .5em;
     font-family: sans-serif;
@@ -92,6 +97,23 @@ li {
 a:hover {
     text-decoration: none;
 }
+
+.trs {
+    border-bottom: 3px solid #013369;
+}
+
+th, td {
+    padding: 8px;
+}
+
+table {
+    border: 3px solid #013369;
+    background-color: lightgray;
+    padding-bottom: .5em;
+    margin-left: 2%;
+    font-family: sans-serif;
+}
+
 
 
 
