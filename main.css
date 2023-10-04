@@ -63,6 +63,9 @@ footer {
     clear: both;
     border: 2px solid #013369;
     text-align: right;
+    width: 100%;
+    background-color: #CED4DA;
+    padding: 1em;
 }
 
 body {
@@ -114,6 +117,23 @@ table {
     font-family: sans-serif;
 }
 
+input:hover {
+    background-color: green;
+}
 
 
+#form {
+    padding: .5em;
+}
+
+.media {
+    padding: .8em;
+}
+
+.button {
+    font-size: 12px;
+    background-color: #013369;
+    color: white;
+    border-radius: 8px;
+}
 
