@@ -1,27 +1,28 @@
+/* styles the image in the header */
 .imghead {
     display: block;
     padding: .5em;
 }
 
-.hdr {
-    color: #013369;
-}
-
+/* styles all h1 headers */
 h1 {
     padding: .5em;
     font-family: sans-serif;
 }
 
+/*styles all h2 headers */
 h2 {
     padding: .5em;
     font-family: sans-serif;
 }
 
+/* styles all h3 headers */
 h3 {
     padding: .2em;
     font-family: sans-serif
 }
 
+/* style individual sections on the index page */
 .pstyle {
     width: 50%;
     padding: .5em;
@@ -29,6 +30,7 @@ h3 {
     width: 60%;
 }
 
+/* styles the page for a 2 column layout */
 main {
     width: 50%;
     border-right: 3px solid #013369;
@@ -36,11 +38,13 @@ main {
     
 }
 
+/* sets the width for the 2nd column */
 aside {
     width: 50%;
     float: right;
 }
 
+/* styles images on all pages */
 .hpimg {
     margin: 2em;
     border: 5px solid #013369;
@@ -48,6 +52,7 @@ aside {
     display: block;
 }
 
+/* styles the blimp on the index page */
 .hpblimp {
     margin: 5em;
     border: 5px solid #013369;
@@ -56,8 +61,7 @@ aside {
     background-color: yellow;
 }
 
-
-
+/* styles the footer */
 footer {
     float: left;
     clear: both;
@@ -68,30 +72,36 @@ footer {
     padding: 1em;
 }
 
+/* styles the body */
 body {
     font-family: sans-serif;
     background-color: #013369;
 }
 
+/* adds a bottom border to the header */
 header {
     border-bottom: 2px solid #013369;
 }
 
+/* styles all h3 headers */
 h3 {
     text-align: center;
     font-weight: bolder;
 }
 
+/* styles paragraphs on the index page */
 .tc {
     text-align: center;
 }
 
+/* styles the list elements */
 li {
     margin-right: 10px;
     margin-left: .5em;
     padding: .05em;
 }
 
+/*changes the background color for the body of the page */
 .bodys {
     background-color: white;
 }
@@ -101,14 +111,17 @@ a:hover {
     text-decoration: none;
 }
 
+/* styles the rows in a table */
 .trs {
     border-bottom: 3px solid #013369;
 }
 
+/* adds padding to the table header and table data rows */
 th, td {
     padding: 8px;
 }
 
+/* styles the tables on the standings page */
 table {
     border: 3px solid #013369;
     background-color: lightgray;
@@ -117,19 +130,17 @@ table {
     font-family: sans-serif;
 }
 
-input:hover {
-    background-color: green;
-}
-
-
+/* adds padding to the individual elements in the form */
 #form {
     padding: .5em;
 }
 
+/* adds padding to the video element on the contact us page */
 .media {
     padding: .8em;
 }
 
+/* adds styling to the buttons on the contact us page */
 .button {
     font-size: 12px;
     background-color: #013369;
