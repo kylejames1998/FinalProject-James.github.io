@@ -70,6 +70,7 @@ footer {
     width: 100%;
     background-color: #CED4DA;
     padding: 1em;
+    margin-top: .5em;
 }
 
 /* styles the body */
@@ -135,6 +136,11 @@ table {
     padding: .5em;
 }
 
+/* adds padding to form elements */
+.form {
+    padding: .5em;
+}
+
 /* adds padding to the video element on the contact us page */
 .media {
     padding: .8em;
@@ -147,4 +153,3 @@ table {
     color: white;
     border-radius: 8px;
 }
-
